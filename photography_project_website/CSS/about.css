@@ -1,0 +1,56 @@
+* {
+  font-family: Montserrat;
+}
+
+
+.palingup {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: none;
+  grid-row: auto;
+  position: relative;
+  padding-bottom: 20rem;
+  z-index: 1;
+}
+
+.aboutheader {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+  border: auto;
+  margin: auto;
+  margin-bottom: 20px;
+
+}
+
+.myself {
+  text-align: center;
+  font-size: 1rem;
+  float: right;
+  display:inline-block;
+  width: 30%
+
+}
+
+.about .img {
+  display: block;
+  position: relative;
+  display: table;
+}
+
+.b1 {
+  display: table;
+  width: 50%;
+}
+.c1 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about a {
+  width: 10%;
+  text-align: center;
+}
